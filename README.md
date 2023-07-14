@@ -1,2 +1,2 @@
 # this a test
-`theme: minimal`
+theme: minimal
